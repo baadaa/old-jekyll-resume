@@ -1,0 +1,20 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Bumhan Yu
+email: bumhan.yu@gmail.com
+description: Bumhan Yu is a developer/designer, based in New York City.
+baseurl: ""
+url: ""
+name: Bumhan Yu
+job: designer/developer
+location: New York, NY
+areas: tech, design, and human experience
+twitter_username: baadaa
+github_username:  baadaa
+# codepen_username:  baadaa
+creative_portfolio: http://basinbald.com
+email_address: bumhan.yu@gmail.com
+
+# Build settings
+markdown: kramdown
