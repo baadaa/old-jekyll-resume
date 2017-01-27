@@ -1,7 +1,32 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Solutionist
+    company: The Moderns
+    period: 2013-2016
+    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    role:
+      - client communication
+      - project management
+      - digital design/production
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Lead Designer
+    company: Young & Rubicam Group
+    period: 2009-2013
+    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    role:
+      - client communication
+      - project management
+      - digital design/production
+
+-   title: Sergeant
+    company: Republic of Korea Army
+    period: 2005-2007
+    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    role:
+
+-   title: Translator & Interpreter
+    company: Freelance
+    period: 2003-2007
+    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    role:
+      - client communication
+      - project management
+      - digital design/production

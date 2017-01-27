@@ -73,6 +73,16 @@ body {
   font-size: 16px;
   line-height: 1.4; }
 
+.role {
+  display: inline-block;
+  color: #888;
+  font-size: 0.7em;
+  background: #DDD;
+  padding: 0.2em 0.7em;
+  border-radius: 0.5em;
+  margin-top: 0.8em;
+  margin-right: 0.4em; }
+
 header {
   border-bottom: 1px solid #edefee;
   padding: 40px 0;
@@ -84,6 +94,10 @@ header {
 
 .intro {
   margin-bottom: 40px; }
+  .intro img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 2.5rem; }
   .intro__pre, .intro__post {
     text-transform: uppercase;
     letter-spacing: 4px; }
@@ -103,12 +117,21 @@ header {
 .footer {
   padding: 40px 20px;
   text-align: center;
-  border-top: 1px solid #edefee; }
+  border-top: 1px solid #edefee;
+  background: #EEE; }
   .footer__title {
     font-size: 1.2rem;
     font-weight: bold; }
   .footer__subtitle {
+    font-size: 0.8rem;
     text-transform: capitalize; }
+  .footer__contact {
+    font-size: 0.8rem;
+    color: #666; }
+    .footer__contact a {
+      background: none;
+      text-decoration: none;
+      color: #666 !important; }
 
 dl {
   margin-bottom: 20px; }

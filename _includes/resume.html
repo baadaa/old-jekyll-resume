@@ -7,7 +7,12 @@
             <p class="period">{{ job.period }}</p>
         </dt><!--
         --><dd>
-            <p>{{ job.description }}</p>
+            <p>{{ job.description | markdownify }}</p>
+            {% for role in job.role %}
+            <!-- <p class="role">{{ job.role }}</p> -->
+            <p class="role">{{ role }}</p>
+            {% endfor %}
+
         </dd>
     {% endfor %}
 </dl>

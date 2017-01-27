@@ -5,6 +5,7 @@
     padding: ($spacer * 2) $spacer;
     text-align: center;
     border-top: 1px solid #edefee;
+    background: #EEE;
 
     &__title {
         font-size: 1.2rem;
@@ -12,6 +13,18 @@
     }
 
     &__subtitle {
+        font-size: 0.8rem;
         text-transform: capitalize;
+    }
+
+    &__contact {
+        font-size: 0.8rem;
+        color:#666;
+
+        a {
+          background: none;
+          text-decoration: none;
+          color: #666!important;
+        }
     }
 }
