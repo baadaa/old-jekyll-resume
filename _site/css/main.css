@@ -75,13 +75,16 @@ body {
 
 .role {
   display: inline-block;
-  color: #888;
+  color: #AAA;
   font-size: 0.7em;
-  background: #DDD;
+  background: #EEE;
   padding: 0.2em 0.7em;
   border-radius: 0.5em;
   margin-top: 0.8em;
   margin-right: 0.4em; }
+
+em {
+  font-style: italic; }
 
 header {
   border-bottom: 1px solid #edefee;

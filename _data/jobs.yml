@@ -1,32 +1,36 @@
 -   title: Solutionist
     company: The Moderns
     period: 2013-2016
-    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    description: Branding and communication strategy, interactive/motion design and development, UI/UX development, new buiness pitch materials, and client workshop organization.
     role:
-      - client communication
+      - UI/UX
+      - motion design
+      - front-end development
       - project management
-      - digital design/production
 
 -   title: Lead Designer
     company: Young & Rubicam Group
     period: 2009-2013
-    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    description: Prepress production, interactive/motion design and development, data visualization, new business pitch materials, and identity development.
     role:
-      - client communication
-      - project management
-      - digital design/production
-
--   title: Sergeant
-    company: Republic of Korea Army
-    period: 2005-2007
-    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
-    role:
+      - visual design
+      - branding/identity
+      - UI/UX
+      - front-end development
+      - motion design
 
 -   title: Translator & Interpreter
     company: Freelance
     period: 2003-2007
-    description: Leading digital design work, also handled a variety of business operation tasks as well as client communications.
+    description: Specializing in current affairs and documentaries, translated and interpreted interviews and other footage. Participated in production and editing as a translator, and translated various publications.
     role:
-      - client communication
-      - project management
-      - digital design/production
+      - verbal interpretation
+      - written translation
+      - English/Korean
+
+-   title: Sergeant
+    company: Republic of Korea Army
+    period: 2005-2007
+    description: Served in the Secretary Unit to the Commanding General
+    role:
+      - verbal interpretation
