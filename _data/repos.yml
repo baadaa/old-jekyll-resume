@@ -29,7 +29,7 @@
 - title: My Fridge App
   thumb: myfridge-442x330.jpg
   type: web app
-  lang: HTML/(S)CSS, JavaScript, Firebase
+  lang: JavaScript, Firebase
   description: lorem ipsum
   link: https://github.com/baadaa/myfridge
 
