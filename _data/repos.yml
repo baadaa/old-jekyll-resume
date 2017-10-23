@@ -1,7 +1,7 @@
 - title: B as in Bald
   thumb: b-442x330.gif
   type: website
-  lang: HTML/(S)CSS, JavaScript, Jekyll
+  lang: HTML/(S)CSS/JS, Jekyll
   description: lorem ipsum
   link: https://github.com/baadaa/b-as-in-bald
 
@@ -22,7 +22,7 @@
 - title: Born in New York
   thumb: hana-442x330.gif
   type: website
-  lang: HTML/(S)CSS, JavaScript, Jekyll
+  lang: HTML/(S)CSS/JS, Jekyll
   description: lorem ipsum
   link: https://github.com/baadaa/born-in-new-york
 
