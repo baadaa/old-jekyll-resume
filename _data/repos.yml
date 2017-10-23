@@ -1,0 +1,40 @@
+- title: B as in Bald
+  thumb: b-442x330.gif
+  type: website
+  lang: HTML/(S)CSS, JavaScript, Jekyll
+  description: lorem ipsum
+  link: https://github.com/baadaa/b-as-in-bald
+
+- title: Movie Night iOS App
+  thumb: pamn-442x330.gif
+  type: iOS app
+  lang: Swift
+  description: lorem ipsum
+  link: https://github.com/baadaa/plan-a-movie-night
+
+- title: NYC Life List
+  thumb: nyc-life-list-442x330.gif
+  type: web app
+  lang: JavaScript, Google Maps API
+  description: lorem ipsum
+  link: https://github.com/baadaa/nyc-life-list
+
+- title: Born in New York
+  thumb: hana-442x330.gif
+  type: website
+  lang: HTML/(S)CSS, JavaScript, Jekyll
+  description: lorem ipsum
+  link: https://github.com/baadaa/born-in-new-york
+
+- title: My Fridge App
+  thumb: myfridge-442x330.jpg
+  type: web app
+  lang: HTML/(S)CSS, JavaScript, Firebase
+  description: lorem ipsum
+  link: https://github.com/baadaa/myfridge
+
+- title: view all
+  thumb: profile.svg
+  type: ""
+  lang: .
+  link: https://github.com/baadaa

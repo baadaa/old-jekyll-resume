@@ -1,3 +1,17 @@
+<h3 class="section-title">Select Repos</h3>
+<section class="repos">
+  {% for repo in site.data.repos %}
+    <section class="repo">
+      <a href="{{ repo.link }}" title="{{ repo.title }}">
+        <img src="img/{{ repo.thumb }}">
+        <h4>{{ repo.title }}</h4>
+        <!-- <h5>{{ repo.type }}</h5> -->
+        <h6>{{ repo.lang }}</h6>
+      </a>
+    </section>
+  {% endfor %}
+</section>
+
 <h3 class="section-title">Experience</h3>
 <dl class="experience">
     {% for job in site.data.jobs %}
